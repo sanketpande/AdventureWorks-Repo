@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorks", "AdventureWorks\AdventureWorks.csproj", "{B285BB17-5510-4FED-99F1-F3892D3AA09D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWorks-API", "..\AdventureWorks\AdventureWorks\AdventureWorks-API.csproj", "{177AF42B-E2DC-4243-BB99-F0AB99A10054}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B285BB17-5510-4FED-99F1-F3892D3AA09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B285BB17-5510-4FED-99F1-F3892D3AA09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B285BB17-5510-4FED-99F1-F3892D3AA09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B285BB17-5510-4FED-99F1-F3892D3AA09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{177AF42B-E2DC-4243-BB99-F0AB99A10054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177AF42B-E2DC-4243-BB99-F0AB99A10054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177AF42B-E2DC-4243-BB99-F0AB99A10054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177AF42B-E2DC-4243-BB99-F0AB99A10054}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
